@@ -4,7 +4,7 @@ import LikeButton from './LikeButton';
 
 
 function SocialPages({ posts, setPosts }) {
-  let showSocialPage = posts.map((post, i) => {       //check the let if it doesnt work make it something else and check line 22 if post.post is right
+  let showSocialPage = posts.map((post, i) => {       
     let comments;
     if (post.comments) {
       comments = post.comments.map((comment, i) => {
