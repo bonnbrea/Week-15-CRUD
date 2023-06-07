@@ -1,0 +1,49 @@
+
+
+.center{
+  text-align: center;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  width: 50%;
+}   
+
+
+.post {
+  text-align: center;
+  border-style: groove;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  width: 50%;
+  background-color: rgb(196, 240, 255);
+}
+
+.like-button {
+  background-color:rgb(249, 245, 254);
+}
+
+.text {
+  border-style: double;
+  justify-content: center;
+  text-align: center;
+  width: 800px;
+  margin: auto;
+  display: flex;
+}
+
+.textc {                                 
+  border-style: double;
+  justify-content: center;
+  text-align: center;
+  width: 300px;
+  margin: auto;
+  
+}
+
+.button {
+  width: 80px;
+  margin: auto;
+}
